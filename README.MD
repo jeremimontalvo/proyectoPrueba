@@ -1,7 +1,3 @@
-echo "# proyectoPrueba" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:jeremimontalvo/proyectoPrueba.git
-git push -u origin main
+### Features
+
+- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
